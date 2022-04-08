@@ -1,0 +1,11 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+learning_log/ll_env/
+learning_log/db.sqlite3
+learning_log/__pycache__/
